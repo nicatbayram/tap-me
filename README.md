@@ -37,11 +37,11 @@ Difficulty Levels: Choose from Easy, Medium, Hard, or Very Hard difficulty level
 Restart: Restart the game to try again and beat your high score.
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/1cacd311-8106-4bde-a37d-ff17ff29cc3f" alt="cam1" width="200" />
+<img src="https://github.com/user-attachments/assets/a469c41c-bc28-4b60-b960-05e6bddaf6a0" alt="cam1" width="200" />
+<img src="https://github.com/user-attachments/assets/ea952ba9-d5cf-4499-8811-785649518977" alt="cam1" width="200" />
+<img src="https://github.com/user-attachments/assets/657bf6de-50d2-460e-922f-266819659835" alt="cam1" width="200" />
 
-![1](https://github.com/user-attachments/assets/1cacd311-8106-4bde-a37d-ff17ff29cc3f)
-![2](https://github.com/user-attachments/assets/a469c41c-bc28-4b60-b960-05e6bddaf6a0)
-![3](https://github.com/user-attachments/assets/ea952ba9-d5cf-4499-8811-785649518977)
-![4](https://github.com/user-attachments/assets/657bf6de-50d2-460e-922f-266819659835)
 
 
 
